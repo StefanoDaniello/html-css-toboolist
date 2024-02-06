@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: #F7F8F9;
+
+}
+
+header{
+    min-width: 1200px;
+  background-color: white;
+}
+
+.logo{
+    width: 5%;
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.titolo{
+    display: inline-block;
+    font-weight: 900;
+    font-size: 50px;
+    vertical-align: middle;
+}
+
+.container{
+    background-color: white;
+    width: 70%;
+    height: 650px;
+    margin: auto;
+    border-radius: 3%;
+    margin-top: 3%;
+}
+
+
+.sezione1{
+    height: 13%;
+    vertical-align: middle;
+    border-bottom: 5px solid #F7F8F9;
+    padding-left: 10%;
+   padding-top: 38px;
+   
+}
+
+.celeste{
+    background-color: #48ADF2;
+    color: white;
+    padding: 12px;
+   border-radius: 6%;
+}
+
+.opaco{
+    border: 1px solid #D3D8DB;
+    color: #D3D8DB;
+    padding: 12px;
+   border-radius: 6%;
+   margin-left: 5px;
+}
+
+.sezione2{
+    padding-left: 6%;
+}
+
+.sezione2 h2{
+    padding-top: 10px;
+}
+
+.sezione2 li{
+    padding-top: 20px;
+    list-style: none    
+}
+
+
+.azzurro{
+    background-color: #48ADF2;
+}
+.viola{
+    background-color: #9C73E5;
+}
+.verde{
+    background-color: #64C0A9;
+}
+.arancione{
+    background-color: #F39D33;
+}
+.violetto{
+    background-color: #D863A1;
+}
+.verdechiaro{
+    background-color: #B1C927;
+}
+.Button{
+    color: white;
+    padding: 7px 15px 7px 15px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 20px; 
+    font-size: x-small
+}
