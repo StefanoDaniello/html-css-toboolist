@@ -96,8 +96,29 @@ header{
 .Button{
     color: white;
     padding: 7px 15px 7px 15px;
-    -moz-border-radius: 10px 10px 10px 10px;
-    -webkit-border-radius: 10px 10px 10px 10px;
+    
     border-radius: 20px; 
     font-size: x-small
+}
+.freccia{
+    font-size: small;
+    margin-right: 10px;
+}
+
+.v{
+   border: 2px solid green;
+   color: green;
+   padding: 3px 5px 2px 5px;
+   border-radius: 50%;
+   margin-right: 10px;
+   font-size: x-small;
+}
+
+.x{
+    border: 2px solid red;
+    color: red;
+    padding: 3px 5px 2px 5px;
+    border-radius: 50%;
+    margin-right: 10px;
+    font-size: x-small;
 }
